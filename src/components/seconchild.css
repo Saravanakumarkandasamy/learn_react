@@ -1,0 +1,11 @@
+.sec_container{
+border:1px solid red; 
+}
+.sec_title{
+font-size: 20px;
+color:#00a;
+}
+.sec_content{
+font-size: 16px;
+color:#ccc;
+}
